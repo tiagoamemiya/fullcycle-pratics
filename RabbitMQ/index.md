@@ -1,5 +1,7 @@
 # RabbitMQ
 
+![rabbitmq-screenshot](./rabbitmq-screenshot.png)
+
 - Message broker
 - Desacoplamento entre serviços
 - Mensagens ficam em memória 
